@@ -17,10 +17,10 @@ The main goal is to help businesses understand which products, demographics, and
 ## 🔍 **Key Steps in Analysis**
 1. **Data Cleaning** – handling null values, correcting data types, removing duplicates.
 2. **Exploratory Data Analysis (EDA):**
-  - Customer demographics (gender, age group, occupation, state).
-  - Purchase patterns & spending behavior.
-  - Top-selling products and categories.
-  - Revenue contribution by different customer segments.
+    - Customer demographics (gender, age group, occupation, state).
+    - Purchase patterns & spending behavior.
+    - Top-selling products and categories.
+    - Revenue contribution by different customer segments.
 3. **Visualizations** – plotted insights with bar plots, histograms, and count plots for better interpretation.
 
 ## 📊 **Insights & Findings**
