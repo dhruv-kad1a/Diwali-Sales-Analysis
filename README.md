@@ -26,5 +26,5 @@ The main goal is to help businesses understand which products, demographics, and
 ## 📊 **Insights & Findings**
 - Majority of buyers were **female** customers contributing higher revenue.
 - Customers aged **26-35 years** were the most active buyers.
-- ** Married women from UP, Maharashtra, and Karnataka** working in IT, Healthcare, and Aviation industries were the top contributors.
+- **Married women from UP, Maharashtra, and Karnataka** working in IT, Healthcare, and Aviation industries were the top contributors.
 - The most sold product categories were **Clothing & Apparel, Food, and Electronics**.
